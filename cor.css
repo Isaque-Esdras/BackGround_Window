@@ -1,0 +1,37 @@
+*{
+    margin: 5px;
+}
+
+body{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+
+    background-color: blueviolet;
+    border: none;
+    border-radius: 3px;
+    padding: 20px;
+    color: white;
+    width: 150px;
+    
+}
+
+div{
+
+    text-align: center;
+    line-height: 600px;
+    background-color: black;
+    width: 300px;
+    padding: 30px;
+    line-height: 100px;
+    border-radius: 8px;
+    color: white;
+    
+}
+
+section{
+
+   align-items: center;
+}
